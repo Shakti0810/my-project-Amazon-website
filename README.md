@@ -29,7 +29,6 @@ This project recreates the visual layout of an Amazon-style e-commerce website. 
 
 text
 my-project-Amazon-website/
-
 ├── amazon-logo.jpg
 ├── box1.1.jpg
 ├── box2.jpg
@@ -42,4 +41,4 @@ my-project-Amazon-website/
 ├── image1.jpg
 ├── intex.html
 ├── style.css
-└── README.md
+├── README.md
