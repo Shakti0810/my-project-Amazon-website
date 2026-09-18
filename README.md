@@ -29,7 +29,7 @@ This project recreates the visual layout of an Amazon-style e-commerce website. 
 
 text
 my-project-Amazon-website/
-│
+
 ├── amazon-logo.jpg
 ├── box1.1.jpg
 ├── box2.jpg
