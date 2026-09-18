@@ -1,4 +1,4 @@
- AMAZON WEBSITE CLONE
+# AMAZON WEBSITE CLONE
 
 A front-end clone of the Amazon website created using **HTML5 and CSS3**. This project was built to practice web development concepts such as webpage structure, navigation bars, layouts, product sections, and styling.
 
